@@ -1,2 +1,1 @@
-weather_token = "f53c501c2ef91ba8d1e6eb3135f71f92"
-TOKEN = "7125438641:AAGl_7798_puxjTbHB6DGUWFoKS4Si7mk1w"
+
